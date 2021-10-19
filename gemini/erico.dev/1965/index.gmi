@@ -1,0 +1,7 @@
+# Érico's place
+
+Hello!
+
+Here is some of the content hosted here:
+
+=> gemini://void-docs.erico.dev - Void Docs, on Gemini!
