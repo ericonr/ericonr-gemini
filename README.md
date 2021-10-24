@@ -6,8 +6,8 @@ Create certs in `certs/` using with `generate.sh`, which requires
 [x509cert(1)](https://x509cert.mforney.org/x509cert.1.html).
 
 Copy [lc19](https://sr.ht/~thededem/lc19/) executable to directory, install
-[s6-networking](https://skarnet.org/software/s6-networking/), and run
-`host.sh`.
+[s6-networking](https://skarnet.org/software/s6-networking/) and
+[bubblewrap](https://github.com/containers/bubblewrap), and run `host.sh`.
 
 #### void-docs
 
